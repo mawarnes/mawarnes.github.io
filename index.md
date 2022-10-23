@@ -1,4 +1,5 @@
-## Welcome to Mike's GitHub Pages
+# Welcome to Mike's GitHub Pages
+## Using an editor
 
 You can use the [editor on GitHub](https://github.com/mawarnes/mawarnes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
