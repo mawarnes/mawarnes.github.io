@@ -1,1 +1,31 @@
-theme: pages-themes/minimal@v0.2.0
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Just Some Code
+tagline:
+description:      "I'm Cesar Aguirre. Software engineer"
+url:              https://canro91.github.io
+baseurl:          /
+
+future:           false
+
+author:
+  name:           'Cesar Aguirre'
+  url:
+
+paginate:         5
+paginate_path:    "/blog/page:num/"
+
+# Custom vars
+version:
+
+github:           https://github.com/mawarnes
+devto:            https://dev.to/canro91
+linkedin:         https://linkedin.com/in/mawarnes
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+sidebar_blog_link:  '/blog'
