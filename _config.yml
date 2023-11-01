@@ -2,16 +2,16 @@
 permalink:        pretty
 
 # Setup
-title:            Just Some Code
+title:            Uptown Func
 tagline:
-description:      "I'm Cesar Aguirre. Software engineer"
-url:              https://canro91.github.io
+description:      "I'm Michael Warnes. Software engineer"
+url:              https://mawarnes.github.io
 baseurl:          /
 
 future:           false
 
 author:
-  name:           'Cesar Aguirre'
+  name:           'Micahel Warnes'
   url:
 
 paginate:         5
@@ -21,7 +21,7 @@ paginate_path:    "/blog/page:num/"
 version:
 
 github:           https://github.com/mawarnes
-devto:            https://dev.to/canro91
+devto:            https://dev.to/mawarnes
 linkedin:         https://linkedin.com/in/mawarnes
 
 plugins:
